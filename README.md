@@ -6,4 +6,4 @@ For study purposes, I converted the previous project developed in React Native t
 <br />
 Project Running
 <br />
-![Screen01](https://github.com/xWeaver/MillerCalculator-C-/blob/master/img/imgsample.png)
+![Screen01](https://github.com/xWeaver/MillerCalculator-C-/blob/master/img/imagesample.png)
